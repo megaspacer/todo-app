@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(82, 82, 82);
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  max-width: calc(1024px / 2);
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+}
