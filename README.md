@@ -7,5 +7,5 @@
 
 # Authors:
 
-(github.com/megaspacer)[https://github.com/megaspacer]
-(github.com/alekseylovchikov)[https://github.com/alekseylovchikov]
+- [alekseylovchikov](https://github.com/alekseylovchikov)
+- [megaspacer](https://github.com/megaspacer)
