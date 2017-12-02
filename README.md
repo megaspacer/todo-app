@@ -5,6 +5,8 @@
 - html
 - css
 
+[see demo hear](https://megaspacer.github.io/todo-app/)
+
 # Authors:
 
 - [alekseylovchikov](https://github.com/alekseylovchikov)
