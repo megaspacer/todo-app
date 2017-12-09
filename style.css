@@ -16,4 +16,29 @@ h1 {
 
 input {
   width: 100%;
+  font-size: 16px;
+}
+
+.check {
+  color: #b8b8b8;
+  font-weight: normal;
+}
+
+.fa-trash {
+  cursor: pointer;
+}
+
+.fa-trash:hover {
+  color: red;
+}
+
+ul {
+  list-style: none;
+}
+
+.todo-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 22px;
 }
