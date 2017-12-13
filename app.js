@@ -61,7 +61,7 @@
     li.innerHTML = `
       <div class="todo-info">
         <strong data-idtodo="${id}" class="todo ${done ? 'check' : 'uncheck'}">
-          ${text} ${done ? check : uncheck}
+        ${done ? check : uncheck} ${text}
         </strong>
         <i data-id="${id}" class="fa fa-trash" aria-hidden="true"></i>
       </div>
@@ -69,6 +69,7 @@
         Дата создания: ${timestamp}
       </div>
     `;
+    li.classList.add('fade-in');
     todoList.appendChild(li);
   }
   
