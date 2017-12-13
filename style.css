@@ -40,6 +40,14 @@ ul {
   list-style: none;
 }
 
+ul li {
+  padding: 1rem;
+}
+
+ul li:nth-child(even) {
+  background-color: #eee;
+}
+
 .todo-info {
   display: flex;
   justify-content: space-between;
